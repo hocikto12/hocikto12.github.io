@@ -1,0 +1,36 @@
+body {
+  width: 700px;
+  background-color: white;
+  color: black;
+}
+
+h1{
+  font-family: Arial, Verdana, Helvetia;
+  font-style: normal;
+  color: blue;
+}
+h2  {
+font-family: Times New Roman;
+font-style: italic;
+font-weight: normal;
+font-size: 40px;
+color: #AEFF66 ;
+}
+h3 {
+font-style: italic;
+font-weight: normal;
+font-size: 30px;
+color: green;
+}
+p {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 1.5;
+}
+ul {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+}
+
